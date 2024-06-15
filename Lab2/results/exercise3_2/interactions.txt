@@ -1,0 +1,28 @@
+What musical genre was born in the United States?
+0: Jazz
+1: Baroque
+2: Classical
+Model answer: Jazz
+
+
+What is the biggest musical instrument?
+0: Piano
+1: Guitar
+2: Flute
+Model answer: Piano
+
+
+Among these, which singer is American?
+0: Frank Sinatra
+1: Pavarotti
+2: Edith Piaf
+Model answer: Frank Sinatra
+
+
+Which musical instrument was invented last?
+0: Piano
+1: Electric Guitar
+2: Harp
+Model answer: Electric Guitar
+
+
